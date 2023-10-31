@@ -1,16 +1,15 @@
-### Hi there 👋
+👋 Hello, I'm Kelvin Rugut
 
-<!--
-**Rugut-Dev/Rugut-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Exploring the infinite possibilities of code.
 
-Here are some ideas to get you started:
+💻 Full-Stack Developer | Open Source Advocate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 On a mission to make the world a better place, one line of code at a time.
+
+🌱 Currently learning SE Foundations at ALX.
+
+💬 Let's connect! Share your thoughts and ideas with me.
+
+📫 Reach me at krugut36@gmail.com
+
+🔗 Explore my projects below ⬇️
