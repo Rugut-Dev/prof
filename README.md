@@ -6,7 +6,7 @@
 
 🌍 On a mission to make the world a better place, one line of code at a time.
 
-🌱 Currently learning SE Foundations at ALX.
+🌱 Currently learning SE Foundations at ALX(Sprint 2).
 
 💬 Let's connect! Share your thoughts and ideas with me.
 
