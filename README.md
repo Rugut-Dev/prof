@@ -1,4 +1,4 @@
-👋 Hello, I'm Kelvin Rugut
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;This+is+Kelvin+Rugut;Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
 🚀 Exploring the infinite possibilities of code.
 
